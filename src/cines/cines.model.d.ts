@@ -1,0 +1,3 @@
+interface cinesCreacionDTO{
+    nombre: string;
+}
